@@ -5,6 +5,26 @@
     padding: 20px;
 }
 
+.navbar {
+    overflow: hidden;
+    background-color: darkslategrey;
+}
+/* Navbar Links */
+.navbar a {
+    float: left;
+    display: block;
+    color: rgb(26, 110, 207);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Changing color with on hover */
+.navbar a:hover {
+    background-color: darkslategrey;
+    color: rgb(26, 110, 207);
+}
+
 body {
     background-color: grey;
 }

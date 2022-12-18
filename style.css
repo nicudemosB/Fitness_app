@@ -68,6 +68,9 @@ body {
     border-radius: 5px solid black;
 }
 
-.barbell {
-    text-align: center;
+img {
+    background-image: url("https://i.etsystatic.com/10919371/r/il/30f295/1605257767/il_340x270.1605257767_ajgs.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }

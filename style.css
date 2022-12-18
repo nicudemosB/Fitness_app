@@ -67,3 +67,7 @@ body {
     border-style: inset;
     border-radius: 5px solid black;
 }
+
+.barbell {
+    text-align: center;
+}

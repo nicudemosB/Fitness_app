@@ -1,7 +1,7 @@
 .title {
     text-align: center;
-    background-color: rgb(0, 0, 0);
-    color: rgb(224, 40, 40);
+    background-color: rgba(35, 31, 31, 0.807);
+    color: gold;
     padding: 20px;
     font-family: 'Plaster', cursive;
 }
@@ -14,7 +14,7 @@
 .navbar a {
     float: left;
     display: block;
-    color: rgb(224, 40, 40);
+    color: gold;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
